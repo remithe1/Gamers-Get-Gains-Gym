@@ -1,0 +1,61 @@
+#title{
+   background-color: #252A34;
+   color: #EAEAEA;
+   font-size: 1.5rem;
+} 
+.container-fluid{
+    padding: 2% 10%;
+}
+.nav-link{
+    color: #EAEAEA;
+}
+.nav-link:hover{
+    color: #ff2E63;
+}
+.navbar-brand{
+    color: #ff2E63;
+    font-size: 2.0rem;
+}
+#Home{
+    background-color: #08D9D6;
+    color: #EAEAEA;
+}
+h1{
+    text-align: center;
+   font-family: fantasy;
+}
+h2{
+    text-align: center;
+    font-family: fantasy;
+}
+.controller{
+    border-radius: 30%;
+}
+#reviews{
+    background-color: #ff2E63;
+    color: #08D9D6;
+}
+.carouselimage{
+    padding-left: 40%;
+ height: 250px;
+}
+#equipment{
+    background-color: #08D9D6;
+    color: #EAEAEA;
+}
+.equimpmentimages{
+    height: 200px;
+    width:200px;
+    background-color: #08D9D6;
+}
+#plans{
+    background-color: #EAEAEA;
+    color: #08D9D6;
+}
+#footer{
+    background-color: #252A34;
+    color: #EAEAEA;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
